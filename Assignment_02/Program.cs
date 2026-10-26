@@ -356,6 +356,20 @@ namespace Assignment_02
 
             #endregion
 
+            #region Question25
+
+            //// 25. Generate even numbers between 1 and 30.
+
+            //var q25 = Enumerable.Range(1, 30)
+            //                    .Where(n => n % 2 == 0);
+
+            //foreach (var num in q25)
+            //{
+            //    Console.WriteLine(num);
+            //}
+
+            #endregion
+
 
 
         }

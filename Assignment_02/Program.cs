@@ -330,6 +330,16 @@ namespace Assignment_02
 
             #endregion
 
+            #region Question23
+
+            //// 23. Try to get the first product with a price>$500. it returns null instead of throwing.
+
+            //var q23 = products.FirstOrDefault(p => p.UnitPrice > 500);
+
+            //Console.WriteLine(q23 is null ? "No product found" : $"Name: {q23.ProductName}, Price: {q23.UnitPrice}");
+
+            #endregion
+
 
 
 

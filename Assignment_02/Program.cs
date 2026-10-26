@@ -205,6 +205,22 @@ namespace Assignment_02
 
             #endregion
 
+            #region Question14
+
+            //// 14. Find all categories that have MORE THAN 3 products
+
+            //var q14 = products.GroupBy(p => p.Category)
+            //                  .Where(g => g.Count() > 3)
+            //                  .Select(g => new { Category = g.Key, Count = g.Count() });
+
+            //foreach (var item in q14)
+            //{
+            //    Console.WriteLine($"Category: {item.Category}, Count: {item.Count}");
+            //}
+
+            #endregion
+
+
 
         }
     }

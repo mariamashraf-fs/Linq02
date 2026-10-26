@@ -370,6 +370,21 @@ namespace Assignment_02
 
             #endregion
 
+            #region Question26
+
+            //// 26. Concatenate the first 3 product names with the first 3 customer company names into a single sequence.
+
+            //var q26 = products.Take(3)
+            //                  .Select(p => p.ProductName)
+            //                  .Concat(customers.Take(3).Select(c => c.CustomerName));
+
+            //foreach (var name in q26)
+            //{
+            //    Console.WriteLine(name);
+            //}
+
+            #endregion
+
 
 
         }

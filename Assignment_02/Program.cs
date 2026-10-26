@@ -105,6 +105,20 @@ namespace Assignment_02
 
             #endregion
 
+            #region Question07
+
+           //// 7.Get top 3 most expensive products
+
+           //var q7 = products.OrderByDescending(p => p.UnitPrice)
+           //                 .Take(3);
+
+           // foreach (var item in q7)
+           // {
+           //     Console.WriteLine($"Name: {item.ProductName}, Price: {item.UnitPrice}");
+           // }
+
+            #endregion
+
 
 
         }

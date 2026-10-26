@@ -261,6 +261,22 @@ namespace Assignment_02
 
             #endregion
 
+            #region Question18
+
+            //// 18. Get a distinct list of all product categories
+
+            //var q18 = products.Select(p => p.Category)
+            //                  .Distinct()
+            //                  .ToList();
+
+            //foreach (var category in q18)
+            //{
+            //    Console.WriteLine(category);
+            //}
+
+            #endregion
+
+
 
 
         }

@@ -340,6 +340,21 @@ namespace Assignment_02
 
             #endregion
 
+            #region Question24
+
+            //// 24. Generate a multiplication table row for 7
+
+            //int number = 7;
+
+            //var q24 = Enumerable.Range(1, 12)
+            //                    .Select(i => new { Multiplier = i, Result = number * i });
+
+            //foreach (var item in q24)
+            //{
+            //    Console.WriteLine($"{number} x {item.Multiplier} = {item.Result}");
+            //}
+
+            #endregion
 
 
 

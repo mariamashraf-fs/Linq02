@@ -186,8 +186,24 @@ namespace Assignment_02
 
             #endregion
 
+            #region Question13
 
+            //// 13. Group products by Category and project only product names per group
 
+            //var q13 = products.GroupBy(p => p.Category)
+            //                  .Select(g => new { Category = g.Key, Names = g.Select(p => p.ProductName) });
+
+            //foreach (var group in q13)
+            //{
+            //    Console.WriteLine($"Category: {group.Category}");
+
+            //    foreach (var name in group.Names)
+            //    {
+            //        Console.WriteLine($"     {name}");
+            //    }
+            //}
+
+            #endregion
 
 
         }

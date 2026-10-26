@@ -240,6 +240,17 @@ namespace Assignment_02
 
             #endregion
 
+            #region Question16
+
+            //// 16. Calculate the total number of units in stock across all products
+
+            //var q16 = products.Sum(p => p.UnitsInStock);
+
+            //Console.WriteLine($"Total Units In Stock: {q16}");
+
+            #endregion
+
+
 
         }
     }

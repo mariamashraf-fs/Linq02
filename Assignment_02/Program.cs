@@ -88,6 +88,23 @@ namespace Assignment_02
 
             #endregion
 
+            #region Question06
+
+            //// 6. Create a list of all digits in the array whose second letter is 'i' that is reversed from the order in the original array.
+
+            //string[] digits = { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
+
+            //var q6 = digits.Where(d => d.Length > 1 && d[1] == 'i')
+            //               .Reverse()
+            //               .ToList();
+
+            //foreach (var digit in q6)
+            //{
+            //    Console.WriteLine(digit);
+            //}
+
+            #endregion
+
 
 
         }

@@ -309,6 +309,17 @@ namespace Assignment_02
 
             #endregion
 
+            #region Question21
+
+            //// 21. Build a Dictionary<int, Product> keyed by ProductID. Then retrieve and print the product with ID= 18.
+
+            //Dictionary<int, Product> q21 = products.ToDictionary(p => p.ProductID);
+            //var product18 = q21[18];
+
+            //Console.WriteLine($"ID: {product18.ProductID}, Name: {product18.ProductName}, Price: {product18.UnitPrice}");
+
+            #endregion
+
 
 
         }

@@ -320,6 +320,17 @@ namespace Assignment_02
 
             #endregion
 
+            #region Question22
+
+            //// 22. Get the first product whose price is greater than$50.
+
+            //var q22 = products.First(p => p.UnitPrice > 50);
+
+            //Console.WriteLine($"Name: {q22.ProductName}, Price: {q22.UnitPrice}");
+
+            #endregion
+
+
 
 
         }

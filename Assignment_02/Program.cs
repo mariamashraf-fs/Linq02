@@ -173,6 +173,22 @@ namespace Assignment_02
 
             #endregion
 
+            #region Question12
+
+            //// 12. Group all products by Category and print each group with its product count.
+
+            //var q12 = products.GroupBy(p => p.Category);
+
+            //foreach (var group in q12)
+            //{
+            //    Console.WriteLine($"Category: {group.Key}, Count: {group.Count()}");
+            //}
+
+            #endregion
+
+
+
+
 
         }
     }

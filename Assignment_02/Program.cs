@@ -150,6 +150,19 @@ namespace Assignment_02
 
             #endregion
 
+            #region Question10
+
+            //// 10. Check if ALL products in the"Seafood" category are in stock
+
+            //var q10 = products.Where(p => p.Category == "Seafood")
+            //                  .All(p => p.UnitsInStock > 0);
+
+            //Console.WriteLine($"Are all Seafood products in stock?  => {q10}");
+
+            #endregion
+
+
+
 
         }
     }

@@ -26,6 +26,22 @@ namespace Assignment_02
 
             #endregion
 
+            #region Question02
+
+            //// 2. Get all products from the "Beverages" category, sorted by UnitsInStock descending. Print name and stock.
+
+            //var q2 = products.Where(p => p.Category == "Beverages")
+            //                 .OrderByDescending(p => p.UnitsInStock)
+            //                 .Select(p => new { p.ProductName, p.UnitsInStock });
+
+            //foreach (var item in q2)
+            //{
+            //    Console.WriteLine($"Name: {item.ProductName}, Stock: {item.UnitsInStock}");
+            //}
+
+            #endregion
+
+
 
         }
     }

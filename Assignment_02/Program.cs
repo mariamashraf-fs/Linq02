@@ -107,15 +107,32 @@ namespace Assignment_02
 
             #region Question07
 
-           //// 7.Get top 3 most expensive products
+            //// 7.Get top 3 most expensive products
 
-           //var q7 = products.OrderByDescending(p => p.UnitPrice)
-           //                 .Take(3);
+            //var q7 = products.OrderByDescending(p => p.UnitPrice)
+            //                 .Take(3);
 
-           // foreach (var item in q7)
-           // {
-           //     Console.WriteLine($"Name: {item.ProductName}, Price: {item.UnitPrice}");
-           // }
+            // foreach (var item in q7)
+            // {
+            //     Console.WriteLine($"Name: {item.ProductName}, Price: {item.UnitPrice}");
+            // }
+
+            #endregion
+
+            #region Question08
+
+            //// 8. show page 2 of products, with page size= 5
+
+            //int pageNumber = 2;
+            //int pageSize = 5;
+
+            //var q8 = products.Skip((pageNumber - 1) * pageSize)
+            //                 .Take(pageSize);
+
+            //foreach (var item in q8)
+            //{
+            //    Console.WriteLine($"Name: {item.ProductName}");
+            //}
 
             #endregion
 

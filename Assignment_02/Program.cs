@@ -57,6 +57,20 @@ namespace Assignment_02
 
             #endregion
 
+            #region Question04
+
+            //// 4. Show position number alongside ProductName
+
+            //var q4 = products.Select((p, index) =>
+            //                new { Position = index + 1, p.ProductName });
+
+            //foreach (var item in q4)
+            //{
+            //    Console.WriteLine($"{item.Position}. {item.ProductName}");
+            //}
+
+            #endregion
+
 
         }
     }

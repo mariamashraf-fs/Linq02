@@ -385,7 +385,18 @@ namespace Assignment_02
 
             #endregion
 
+            #region Question27
 
+            //// 27. Pair each product with a customer(by position) and produce a string"ProductName sold to CompanyName".
+
+            //var q27 = products.Zip(customers, (p, c) => $"{p.ProductName} sold to {c.CustomerName}");
+
+            //foreach (var item in q27)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            #endregion
 
         }
     }

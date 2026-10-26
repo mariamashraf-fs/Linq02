@@ -161,7 +161,17 @@ namespace Assignment_02
 
             #endregion
 
+            #region Question11
 
+            //// 11. Check if the ID list contains 9 int[] ids={ 3, 9, 13, 18};
+
+            //int[] ids = { 3, 9, 13, 18 };
+
+            //var q11 = ids.Contains(9);
+
+            //Console.WriteLine($"Does the ID list contain 9? => {q11}");
+
+            #endregion
 
 
         }

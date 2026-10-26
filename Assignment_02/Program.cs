@@ -250,6 +250,17 @@ namespace Assignment_02
 
             #endregion
 
+            #region Question17
+
+            //// 17. Find the CHEAPEST and MOST EXPENSIVE product prices
+
+            //var q17_cheapestPrice = products.Min(p => p.UnitPrice);
+            //var q17_mostExpensivePrice = products.Max(p => p.UnitPrice);
+
+            //Console.WriteLine($"Cheapest Price: {q17_cheapestPrice}, Most Expensive Price: {q17_mostExpensivePrice}");
+
+            #endregion
+
 
 
         }
